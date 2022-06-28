@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.9.1",
+    "fs": "^0.0.1-security",
+    "oauth": "^0.9.15",
+    "words-array": "^1.0.1"
+  },
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "Seif Sameh",
+  "license": "MIT",
+  "description": ""
+}
